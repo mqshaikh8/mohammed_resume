@@ -21,7 +21,7 @@ Paterson, NJ
 
 **Woke-Muz:** [Backend](https://github.com/mqshaikh8/matchedApi) | [FrontEnd](https://github.com/mqshaikh8/Matched) | [LiveSite](https://matched4ever.herokuapp.com/)
 
--A matrimonial app for socially active people designed using Semantic-ui, Semantic-ui-react, Particle-bg, Vanilla css, Rails, React Redux and Browser router for front end routing
+- A matrimonial app for socially active people designed using Semantic-ui, Semantic-ui-react, Particle-bg, Vanilla css, Rails, React Redux and Browser router for front end routing
 
 ## Experience:
 
@@ -45,19 +45,11 @@ _Outreach Coordinator / Youth Mentor_, 01/2015 - Present
 
 ## Education:
 
-**Fullstack Academy of Code**, January 2018 - May 2018  
-_Immersive Software Engineering Bootcamp_
-
-**DePaul University**, 2016  
-_Kellstadt Graduate School of Business_  
-MS in Management
-
-**University of Michigan**, 2014  
-_College of Literature, Science, and the Arts_  
-Bachelor of Science, Environmental Sciences
+**Flatiron School**, 10/2019 - 03/2020  
+_Full Stack Web Development, Ruby on Rails and JavaScript program_
 
 ## Interests:
 
-- Running: 2016 Chicago Marathon Finisher
-- Sports
 - Traveling
+- Fishing
+- Teaching
